@@ -19944,8 +19944,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 9,
-                        "nombre_estado": "Ciudad de M\u00e9xico"
+                        "state_code": 9,
+                        "state_name": "Ciudad de M\u00e9xico"
                     },
                     "type": "Polygon"
                 },
@@ -19971,8 +19971,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 12,
-                        "nombre_estado": "Guerrero"
+                        "state_code": 12,
+                        "state_name": "Guerrero"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20015,8 +20015,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 15,
-                        "nombre_estado": "M\u00e9xico"
+                        "state_code": 15,
+                        "state_name": "M\u00e9xico"
                     },
                     "type": "Polygon"
                 },
@@ -20045,8 +20045,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 17,
-                        "nombre_estado": "Morelos"
+                        "state_code": 17,
+                        "state_name": "Morelos"
                     },
                     "type": "Polygon"
                 },
@@ -20083,8 +20083,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 25,
-                        "nombre_estado": "Sinaloa"
+                        "state_code": 25,
+                        "state_name": "Sinaloa"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20130,8 +20130,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 2,
-                        "nombre_estado": "Baja California"
+                        "state_code": 2,
+                        "state_name": "Baja California"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20175,8 +20175,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 26,
-                        "nombre_estado": "Sonora"
+                        "state_code": 26,
+                        "state_name": "Sonora"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20245,8 +20245,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 3,
-                        "nombre_estado": "Baja California Sur"
+                        "state_code": 3,
+                        "state_name": "Baja California Sur"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20271,8 +20271,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 32,
-                        "nombre_estado": "Zacatecas"
+                        "state_code": 32,
+                        "state_name": "Zacatecas"
                     },
                     "type": "Polygon"
                 },
@@ -20297,8 +20297,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 10,
-                        "nombre_estado": "Durango"
+                        "state_code": 10,
+                        "state_name": "Durango"
                     },
                     "type": "Polygon"
                 },
@@ -20317,8 +20317,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 8,
-                        "nombre_estado": "Chihuahua"
+                        "state_code": 8,
+                        "state_name": "Chihuahua"
                     },
                     "type": "Polygon"
                 },
@@ -20345,8 +20345,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 6,
-                        "nombre_estado": "Colima"
+                        "state_code": 6,
+                        "state_name": "Colima"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20393,8 +20393,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 18,
-                        "nombre_estado": "Nayarit"
+                        "state_code": 18,
+                        "state_name": "Nayarit"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20421,8 +20421,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 16,
-                        "nombre_estado": "Michoacán"
+                        "state_code": 16,
+                        "state_name": "Michoacán"
                     },
                     "type": "Polygon"
                 },
@@ -20468,8 +20468,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 14,
-                        "nombre_estado": "Jalisco"
+                        "state_code": 14,
+                        "state_name": "Jalisco"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20487,8 +20487,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 7,
-                        "nombre_estado": "Chiapas"
+                        "state_code": 7,
+                        "state_name": "Chiapas"
                     },
                     "type": "Polygon"
                 },
@@ -20507,8 +20507,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 27,
-                        "nombre_estado": "Tabasco"
+                        "state_code": 27,
+                        "state_name": "Tabasco"
                     },
                     "type": "Polygon"
                 },
@@ -20539,8 +20539,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 20,
-                        "nombre_estado": "Oaxaca"
+                        "state_code": 20,
+                        "state_name": "Oaxaca"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20561,8 +20561,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 11,
-                        "nombre_estado": "Guanajuato"
+                        "state_code": 11,
+                        "state_name": "Guanajuato"
                     },
                     "type": "Polygon"
                 },
@@ -20576,8 +20576,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 1,
-                        "nombre_estado": "Aguascalientes"
+                        "state_code": 1,
+                        "state_name": "Aguascalientes"
                     },
                     "type": "Polygon"
                 },
@@ -20598,8 +20598,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 22,
-                        "nombre_estado": "Queretaro"
+                        "state_code": 22,
+                        "state_name": "Queretaro"
                     },
                     "type": "Polygon"
                 },
@@ -20632,8 +20632,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 24,
-                        "nombre_estado": "San Luis Potos\u00ed"
+                        "state_code": 24,
+                        "state_name": "San Luis Potos\u00ed"
                     },
                     "type": "Polygon"
                 },
@@ -20662,8 +20662,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 29,
-                        "nombre_estado": "Tlaxcala"
+                        "state_code": 29,
+                        "state_name": "Tlaxcala"
                     },
                     "type": "Polygon"
                 },
@@ -20722,8 +20722,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 21,
-                        "nombre_estado": "Puebla"
+                        "state_code": 21,
+                        "state_name": "Puebla"
                     },
                     "type": "Polygon"
                 },
@@ -20799,8 +20799,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 13,
-                        "nombre_estado": "Hidalgo"
+                        "state_code": 13,
+                        "state_name": "Hidalgo"
                     },
                     "type": "Polygon"
                 },
@@ -20878,8 +20878,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 30,
-                        "nombre_estado": "Veracruz"
+                        "state_code": 30,
+                        "state_name": "Veracruz"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20906,8 +20906,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 19,
-                        "nombre_estado": "Nuevo Le\u00f3n"
+                        "state_code": 19,
+                        "state_name": "Nuevo Le\u00f3n"
                     },
                     "type": "Polygon"
                 },
@@ -20924,8 +20924,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 5,
-                        "nombre_estado": "Coahuila"
+                        "state_code": 5,
+                        "state_name": "Coahuila"
                     },
                     "type": "Polygon"
                 },
@@ -20953,8 +20953,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 28,
-                        "nombre_estado": "Tamaulipas"
+                        "state_code": 28,
+                        "state_name": "Tamaulipas"
                     },
                     "type": "Polygon"
                 },
@@ -20974,8 +20974,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 31,
-                        "nombre_estado": "Yucat\u00e1n"
+                        "state_code": 31,
+                        "state_name": "Yucat\u00e1n"
                     },
                     "type": "MultiPolygon"
                 },
@@ -20992,8 +20992,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 4,
-                        "nombre_estado": "Campeche"
+                        "state_code": 4,
+                        "state_name": "Campeche"
                     },
                     "type": "MultiPolygon"
                 },
@@ -21028,8 +21028,8 @@
                         ]
                     ],
                     "properties": {
-                        "codigo_estado": 23,
-                        "nombre_estado": "Quintana Roo"
+                        "state_code": 23,
+                        "state_name": "Quintana Roo"
                     },
                     "type": "MultiPolygon"
                 }
